@@ -56,4 +56,3 @@ The following visual files are generated:
 - Seaborn
 
 ---
-cd trendpulse-VijayaMohan
