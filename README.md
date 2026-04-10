@@ -56,6 +56,4 @@ The following visual files are generated:
 - Seaborn
 
 ---
-
-git clone https://github.com/Vijaya-Mohan/trendpulse-VijayaMohan.git
 cd trendpulse-VijayaMohan
